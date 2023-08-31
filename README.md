@@ -1,6 +1,13 @@
 # movie_codetest
 Movie Code Test from Yoma 
 
+-----------------------------
+Server Requirements
+
+Laravel version 10
+PHP >=8.1
+
+-----------------------------
 Check List
 
 1. git clone
@@ -10,3 +17,4 @@ Check List
 5. php artisan migrate
 6. php artisan passport:install
 7. php artisan storage:link
+
