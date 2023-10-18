@@ -1,5 +1,4 @@
-# movie_codetest
-Movie Code Test from Yoma 
+# movie simple project
 
 -----------------------------
 Server Requirements
